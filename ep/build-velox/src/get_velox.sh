@@ -16,8 +16,8 @@
 
 set -exu
 
-VELOX_REPO=https://github.com/oap-project/velox.git
-VELOX_BRANCH=gluten-1.5.0
+VELOX_REPO=https://github.com/wanghx627/velox.git
+VELOX_BRANCH=wanghx627-patch-1
 VELOX_HOME=""
 RUN_SETUP_SCRIPT=ON
 VELOX_ENHANCED_REPO=https://github.com/IBM/velox.git
